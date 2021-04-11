@@ -6,11 +6,11 @@ Ended Day 23.
 
 Spawned inside a mountain biome. Adjacent to both plains and desert biomes.
 
-[x] Mark the spot
-[x] Punch some trees to make wooden tools
-[x] Find Stone and make stone tools
-[x] Find Coal
-[x] Find 3 Sheep & Make a bed
+- [x] Mark the spot
+- [x] Punch some trees to make wooden tools
+- [x] Find Stone and make stone tools
+- [x] Find Coal
+- [x] Find 3 Sheep & Make a bed
 
 Built a small block home into the side of the mountain, maybe 20 blocks from the spawn point. About sea level, maybe Y = 68.
 
